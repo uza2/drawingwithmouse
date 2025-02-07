@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Computer Graphics 2024-2025\Lab\examples\drawingwithmouse\drawingwithmouse\bin\Debug\drawingwithmouse.exe
+C:\Users\user\Desktop\Computer Graphics 2024-2025\Lab\examples\drawingwithmouse\drawingwithmouse\bin\Debug\drawingwithmouse.pdb
+C:\Users\user\Desktop\Computer Graphics 2024-2025\Lab\examples\drawingwithmouse\drawingwithmouse\obj\x86\Debug\drawingwithmouse.Form1.resources
+C:\Users\user\Desktop\Computer Graphics 2024-2025\Lab\examples\drawingwithmouse\drawingwithmouse\obj\x86\Debug\drawingwithmouse.Properties.Resources.resources
+C:\Users\user\Desktop\Computer Graphics 2024-2025\Lab\examples\drawingwithmouse\drawingwithmouse\obj\x86\Debug\drawingwithmouse.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Computer Graphics 2024-2025\Lab\examples\drawingwithmouse\drawingwithmouse\obj\x86\Debug\drawingwithmouse.exe
+C:\Users\user\Desktop\Computer Graphics 2024-2025\Lab\examples\drawingwithmouse\drawingwithmouse\obj\x86\Debug\drawingwithmouse.pdb
+C:\Users\user\Desktop\Computer Graphics 2024-2025\Lab\examples\drawingwithmouse\drawingwithmouse\obj\x86\Debug\drawingwithmouse.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\drawingwithmouse\drawingwithmouse\obj\x86\Debug\drawingwithmouse.exe
+C:\Users\ahmed\Desktop\drawingwithmouse\drawingwithmouse\obj\x86\Debug\drawingwithmouse.pdb
